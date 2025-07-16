@@ -1,5 +1,4 @@
 import { FixedSizeList as List } from "react-window";
-import "./App.css";
 
 const itemCount = 10000;
 const itemHeight = 35;
